@@ -144,3 +144,15 @@ color: white;
 margin-right: 0;
 margin-left: 10px;
 }
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: var(--primary-color);
+    color: white;
+    font-size: 14px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid var(--primary-dark);
+}
